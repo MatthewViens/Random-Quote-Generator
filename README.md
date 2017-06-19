@@ -12,6 +12,6 @@ randomly at least one time before quotes from the array are repeated.
 * CSS
 * Javascript
 
-##Acknowledgments
+## Acknowledgments
 
 * [Team Treehouse](https://teamtreehouse.com)
